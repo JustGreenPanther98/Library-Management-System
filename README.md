@@ -113,32 +113,11 @@ functional correctness and end-to-end execution.
 
 <hr/>
 
-<h2>🚀 Possible Improvements</h2>
-<ul>
-  <li>Introduce layered architecture (UI / Service / Data Access)</li>
-  <li>Apply Repository pattern for database operations</li>
-  <li>Add transaction management for borrow/return flows</li>
-  <li>Improve exception handling and logging</li>
-  <li>Secure credentials using configuration files</li>
-  <li>Convert to ASP.NET Core Web API or Spring Boot (REST)</li>
-</ul>
-
-<hr/>
-
 <h2>🧠 Note to Reviewers</h2>
 <p>
 This repository is preserved <strong>as a learning milestone</strong>.
 More recent projects demonstrate cleaner architecture, better separation of concerns,
 and modern backend practices.
 </p>
-
 <hr/>
 
-<h2>🔥 Final Positioning</h2>
-<ul>
-  <li>✅ Real database-backed application</li>
-  <li>✅ Correct usage of ADO.NET with MySQL</li>
-  <li>❌ Not architecturally clean</li>
-  <li>❌ Not enterprise-grade</li>
-  <li>✅ Strong foundational backend learning project</li>
-</ul>
